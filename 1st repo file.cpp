@@ -12,6 +12,9 @@ int main()
     cout<<"This is 1st repository\n";
 
     //2nd time push into repository
+
+    cout<<"For 2nd time\n";
+    cout<<"Done 1st demo\n";
     
     
 
